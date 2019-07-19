@@ -1,5 +1,5 @@
-# cs4601
-project for COMP4601 (Design Project B). An AXIS based 128-bit AES encrypter.
+
+An AXIS based 128-bit AES encrypter.
 
 A 40 stage intra-pipelined AES-128 encrypter (designed as a hardware accelerator), with an AXI stream interface.
 
